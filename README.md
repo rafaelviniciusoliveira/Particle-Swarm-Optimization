@@ -1,15 +1,13 @@
-# Genetic-Algorithm
-Genetic algorithm developed during the class of artificial intelligence.
+# Particle Swarm Optimization
+Particle Swarm Optimization algorithm developed during the class of artificial intelligence.
 The avaliation function chosen was the rastrigin function:
 
 ![rastringin function](https://github.com/rafaelviniciusoliveira/Particle-Swarm-Optimization/blob/main/Rastrigin_function.png)
 
 The algorithm works based on these variables:
-* size of the population
-* crossing rate
-* elitism rate
-* elitism (True or False)
-* selection function (Roulette or Tournament)
-* crossing function (One point or Multipoint)
-* mutation rate
+* size of the swarm
+* cognitive component
+* social component
 * number of generations
+* target value
+
